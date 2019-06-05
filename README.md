@@ -38,6 +38,23 @@ This workshop, targeted at beginner and aspiring R users, will introduce the R p
 3. Install the `tidyverse` packages within RStudio using `Tools → Install Packages...`, then enter `tidyverse` in the `Packages` field of the dialog.  This will install multiple packages from the core `tidyverse` set that we'll used for the *Data Manipulation and Analysis* section. See the [tidyverse site](https://tidyverse.tidyverse.org) for more information.
 4. If you'd like to dig in more, check out the (free online) book [R for Data Science](https://r4ds.had.co.nz).  While not specifically targeted at beginner R users, it does give a friendly walkthrough of the entire data analysis cycle using R and the `tidyverse`.  This is a great resource for all R users of all levels.
 
+## Workshop Materials
+
+*Presentations*
+
+* [Installing R & RStudio](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/00_installing_r.pdf)
+* [Workshop Overview](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/01_workshop_overview.pdf)
+* [Getting Started with R & RStudio](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/02_r_rstudio_basics.pdf)
+* [Data Manipulation & Analysis with R & the tidyverse](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/03_data_manipulation_analysis.pdf)
+* [Mass Spec Packages for R](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/04_ms_packages.pdf)
+* [Wrap-up & Resources](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/05_wrap_up_resources.pdf)
+
+*Example Code*
+
+* [Very Brief Introduction to R](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/code/00_quick_r_intro.R)
+* [dplyr Examples](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/code/01_dplyr_storms_example.R)
+* [ggplot2 Examples](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/code/02_ggplot2_storms_example.R)
+* [mzR Examples](https://github.com/ZenBrayn/asms-2019-r-workshop/blob/master/code/03_mzR_example.R)
 
 
 
